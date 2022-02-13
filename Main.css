@@ -1,0 +1,37 @@
+.Main-text {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive
+}
+
+.info {
+    text-align: center;
+}
+
+.info2 {
+    text-align: center;
+}
+
+body {
+    background-image: url("backround.jpg");
+    color: white;
+}
+
+.Next-page {
+    text-decoration: none;
+    color:aqua;
+    text-align: center;
+    font-size: 35px;
+}
+
+.Saferoom {
+    font-size: 25px;
+    text-decoration: none;
+    color: aqua;
+    text-align: center;
+}
+
+.Secret {
+    font-size: 1px;
+    text-decoration: none;
+    color:black;
+}
